@@ -1,0 +1,23 @@
+Caminho do BD postgres criado no Heroku que fica dentro de Setting - Config Vars
+
+DATABASE_URL
+
+Quebrar a linha nas posições abaixo
+
+postgres://
+yxlrgxwgbnycxi(nome do usuário)
+:
+71d4ec18323733119c2e3aafaaac5b825bb4c9e0d2ce3b95db1caf22fe39bf6d(senha do usuário)
+@
+ec2-3-232-22-121.compute-1.amazonaws.com(host)
+:
+5432(porta)
+/
+d9ut1k7781v412 (nome da base de dados)
+
+************
+OBSERVAÇÃO.: 
+- Lembrar de clicar na opção de salvar a senha na Aba connection do postgres
+- na aba DB restriction repete o (nome da base de dados) que no caso acima foi d9ut1k7781v412 para identificar o seu BD no heroku
+
+************
