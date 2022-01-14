@@ -5,19 +5,19 @@ DATABASE_URL
 Quebrar a linha nas posições abaixo
 
 postgres://
-yxlrgxwgbnycxi(nome do usuário)
+xjxkdngrkfwjdk(nome do usuário)
 :
-71d4ec18323733119c2e3aafaaac5b825bb4c9e0d2ce3b95db1caf22fe39bf6d(senha do usuário)
+5b357c02c0162d66787dc3d929a30cfedcac53eec2d9fa805c449055df0cfc2d(senha do usuário)
 @
-ec2-3-232-22-121.compute-1.amazonaws.com(host)
+ec2-34-197-182-7.compute-1.amazonaws.com(host)
 :
 5432(porta)
 /
-d9ut1k7781v412 (nome da base de dados)
+di02jkph56f4q(nome da base de dados)
 
 ************
 OBSERVAÇÃO.: 
 - Lembrar de clicar na opção de salvar a senha na Aba connection do postgres
-- na aba DB restriction repete o (nome da base de dados) que no caso acima foi d9ut1k7781v412 para identificar o seu BD no heroku
+- na aba DB restriction repete o (nome da base de dados) que no caso acima foi di02jkph56f4q para identificar o seu BD no heroku
 
 ************
